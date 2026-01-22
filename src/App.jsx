@@ -480,7 +480,7 @@ function App() {
                 <p>Generate your Plans</p>
               </div>
               <div>
-                <a href="#generate" className='cta-icon'><b>⟶</b></a>
+                <a href="#generate" className='cta-icon'><b>➜</b></a>
               </div>
             </div>
 

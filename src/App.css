@@ -187,8 +187,8 @@ a,p{
   border-radius: 60px;
   will-change: transform;
   transition: 0.25s ease;
-  transform: scale(0); /* start small */
-  transform-origin: center; /* make it scale from center */
+  transform: scale(0);
+  transform-origin: center;
 }
 
 .cta-icon:hover{
@@ -354,6 +354,13 @@ a,p{
   }
   .cta {
     width: 90%;
+  }
+  button, a {
+    color: white;
+  }
+  .cta-icon {
+    height: 50px;
+    width: 50px; 
   }
 }
 
