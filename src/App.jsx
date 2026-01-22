@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 
 import { useLayoutEffect, useState, useEffect, useRef } from "react";
-import "../App.css";
+import "./App.css";
 import gsap from "gsap";
 import CustomEase from "gsap/CustomEase";
 import ScrollTrigger from "gsap/ScrollTrigger";
