@@ -535,7 +535,6 @@ function App() {
                 value={skillFocus}
                 onChange={(e) => setSkillFocus(e.target.value)}
               />
-              .
             </h1>
 
             <button onClick={handleGenerate} disabled={loading}>
