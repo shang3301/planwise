@@ -14,7 +14,7 @@
 
 ## Demo
  
-[Live Demo](#)  
+[Live Demo](#https://planwise.vercel.app/)  
 
 ## How We Built It
 
