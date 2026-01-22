@@ -651,5 +651,14 @@ a,p{
 
   .card-description p{
     font-size: 1.25rem;
+
+  }.card-description li {
+    font-size: 1.25rem;
+    text-align: left;
   }
+
+  .card-description p{
+    font-size: 1.25rem;
+  }
+
 }
