@@ -3,7 +3,6 @@ import fetch from "node-fetch";
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const MODEL = "xiaomi/mimo-v2-flash:free";
 
-// App Router serverless function
 export async function POST(req) {
   try {
     const { userType, goal, durationNumber, durationUnit, skillFocus } = await req.json();
