@@ -29,3 +29,10 @@
  - Enable customization of AI-generated plans.
  - Introduce progress tracking analytics and streaks.
  - Expand the AI suggestions library for diverse domains.
+
+## Screenshots
+<img width="1902" height="902" alt="swappy-20260122-110459" src="https://github.com/user-attachments/assets/cb8ddf00-169b-4821-840c-e052f4748211" />
+<img width="1899" height="897" alt="swappy-20260122-110602" src="https://github.com/user-attachments/assets/4f99dec5-af28-45ba-93e0-a5597f6a05c4" />
+<img width="1901" height="891" alt="swappy-20260122-110617" src="https://github.com/user-attachments/assets/ca9ea35f-a145-4ba1-8de8-2250e22d450c" />
+<img width="1897" height="893" alt="swappy-20260122-111132" src="https://github.com/user-attachments/assets/cf3a08de-e954-41c0-8259-93aa954adf90" />
+
