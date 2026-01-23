@@ -12,9 +12,8 @@
 - **Local Storage:** Plans are saved locally—no backend or signup required.  
 - **Responsive Design:** Works seamlessly on both desktop and mobile.  
 
-## Demo
- 
-[Live Demo](#https://planwise.vercel.app/)  
+## Webpage Deployment
+<a href="https://planwise.vercel.app/">Link</a>
 
 ## How We Built It
 
