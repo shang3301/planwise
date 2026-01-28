@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const MODEL = "xiaomi/mimo-v2-flash:free";
+const MODEL = "xiaomi/mimo-v2-flash";
 
 export async function POST(req) {
   try {
