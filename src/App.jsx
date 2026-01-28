@@ -504,11 +504,8 @@ function App() {
                 onChange={(e) => setGoal(e.target.value)}
               >
                 <option value="prepare for exams">Prepare for exams</option>
-                <option value="improve skillset">Improve skillset</option>
                 <option value="learn a skill">Learn a skill</option>
-                <option value="exercise consistently">Exercise efficiently</option>
                 <option value="build a project">Build a project</option>
-                <option value="develop a habit">Develop a habit</option>
               </select>{' '}
               for{' '}
               <select
