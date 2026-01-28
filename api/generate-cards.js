@@ -54,7 +54,6 @@ Focus: ${skillFocus}
 
     const data = await response.json();
     const rawText = data.choices?.[0]?.message?.content || "";
-    if (!rawText) return new Response(JSON.stringify([]), { status: 200 });
     const match = rawText.match(/\[[\s\S]*\]/);
     const cards = match ? JSON.parse(match[0]) : [];
 
