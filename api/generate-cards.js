@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const MODEL = "tngtech/deepseek-r1t2-chimera:free";
+const MODEL = "tngtech/auto:free";
 
 export async function POST(req) {
   try {
@@ -54,6 +54,7 @@ Focus: ${skillFocus}
 
     const data = await response.json();
     const rawText = data.choices?.[0]?.message?.content || "";
+    if (!rawText) return new Response(JSON.stringify([]), { status: 200 });
     const match = rawText.match(/\[[\s\S]*\]/);
     const cards = match ? JSON.parse(match[0]) : [];
 
