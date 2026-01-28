@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const MODEL = "tngtech/auto:free";
+const MODEL = "openrouter/auto:free";
 
 export async function POST(req) {
   try {
