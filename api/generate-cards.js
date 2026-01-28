@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const MODEL = "tngtech/deepseek-r1t2-chimera:free";
+const MODEL = "deepseek/deepseek-r1:free";
 
 export async function POST(req) {
   try {
