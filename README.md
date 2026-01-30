@@ -1,6 +1,6 @@
-# PlanWise – AI-Powered Plan Generator
+# PlanWise - AI-Powered Plan Generator
 
-**PlanWise** is a responsive web app that helps users generate, visualize, and track personalized plans for any goal—studying, skill-building, exercise, or habit development. It combines AI-generated plans, interactive animations, and visually inspiring images to make planning fun and effective.
+**PlanWise** is a responsive web app that helps users generate, visualize, and track personalized plans for any goal like studying, skill-building, exercise, or habit development. It combines AI-generated plans, interactive animations, and visually inspiring images to make planning fun and effective.
 
 ## Features
 
